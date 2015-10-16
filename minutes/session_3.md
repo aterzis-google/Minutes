@@ -24,9 +24,9 @@
 
 #### Andreas Terzis
 * Throughput guidance is part of a bigger effort about the network sharing information with the end points
-* Apart from real-time improvements, it can help in getting a better idea on how well transport protocol behave in improving user experience
+* Apart from showing improvements for actual applications such as YouTube, Throughput Guidance can help us understand how much transport protocols can improve from their current state. 
 * It needs evolution (think of security implications, for example) but it points to a promising direction
-* With info from the network applications can actually change their behavior explicitly and immediately
+* With info from the network applications can actually change their behavior explicitly and immediately. In the case of YouTube this means changing the video rate. 
 * An API for operators to share congestion status and the general state of a cell before the application starts sending any data
 * Usable to shift traffic or change application behavior
 * Another API defined to make the applications aware of the user data plans and their limitations and change application behavior accordingly
